@@ -1,0 +1,18 @@
+benchmarks
+SWtinyG
+greedy project 1
+	 time:  0.00015239999993355013
+	 len_elementos:  7
+greedy random -> time_wanted =  10
+	 time:  10.00006570000187
+	 len_elementos:  7
+random reversed generate combination 1/2^n
+	 time:  0.00021669999841833487
+	 len_elementos:  3
+random reversed generate combination 1/2^k
+	 time:  0.005159199998161057
+	 len_elementos:  6
+random reversed generate combination limit -> limit =  50
+	 time:  0.005258400000457186
+	 len_elementos:  6
+

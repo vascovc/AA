@@ -1,0 +1,9 @@
+benchmarks
+RO_edges
+greedy project 1
+	 time:  392.14913579999995
+	 len_elementos:  19607
+greedy random -> time_wanted =  10
+	 time:  10.598181700000055
+	 len_elementos:  16683
+random reversed generate combination 1/2^n

@@ -1,0 +1,18 @@
+benchmarks
+SWmediumG
+greedy project 1
+	 time:  0.030457299999397947
+	 len_elementos:  50
+greedy random -> time_wanted =  10
+	 time:  10.002721500000916
+	 len_elementos:  48
+random reversed generate combination 1/2^n
+	 time:  0.0838807000000088
+	 len_elementos:  7
+random reversed generate combination 1/2^k
+	 time:  3.976063800000702
+	 len_elementos:  13
+random reversed generate combination limit -> limit =  50
+	 time:  3.969773900000291
+	 len_elementos:  15
+

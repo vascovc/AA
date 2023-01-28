@@ -1,0 +1,12 @@
+benchmarks
+facebook_combined
+greedy project 1
+	 time:  2.96619720000308
+	 len_elementos:  1018
+greedy random -> time_wanted =  10
+	 time:  10.143012199998338
+	 len_elementos:  850
+random reversed generate combination 1/2^n
+	 time:  172.9220693999996
+	 len_elementos:  11
+random reversed generate combination 1/2^k
